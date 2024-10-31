@@ -11,4 +11,4 @@
 Me encanta resolver problemas y plantear su solución en código. Me divierte plantear soluciones a  problemas matemáticos o que impliquen facilitar las tareas repetitivas. 
 Aunque purista de lenguaje C, he tenido que mejorar mis habilidades con Python y R. Si bien manejo Windows de modo decente, mi preferido es GNU/Linux y creo que  Bash es lo mejor del mundo. De Windows aprendí  PowerShell que va bien para automatizar tareas. Espero en un futuro cercano extenderme al lenguaje Java, pero todo a su tiempo.
 
-Estoy estudiando temas de aprendizaje automático y ciencia de datos, mi objetivo a futuro es encontrar un campo relacionado con el _cloud computing_ estas y la ciberseguridad.
+Estoy estudiando temas de aprendizaje automático y ciencia de datos, mi objetivo a futuro es encontrar un campo relacionado con el _cloud computing_ y la ciberseguridad.
